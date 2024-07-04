@@ -37,3 +37,6 @@ Flask, SQLite, OpenCV
 
 
 **Community Engagement:** Partnering with advocacy groups and organizations to reduce mental health stigma and promote awareness of online therapy options.
+
+## Website
+Visit [EmoteCare](https://sriya-singh.github.io/EventFlow/).
