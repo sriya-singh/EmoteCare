@@ -40,3 +40,4 @@ Flask, SQLite, OpenCV
 
 ## Website
 Visit [EmoteCare](https://sriya-singh.github.io/EmoteCare/).
+Demo [Demo Link](https://www.loom.com/share/f6668ff386894aa88f38b48e2f01922a?sid=f1d62f10-7db7-43a7-a56c-e8f0a2d9c4f8).
